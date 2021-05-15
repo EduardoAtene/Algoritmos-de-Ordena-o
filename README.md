@@ -1,5 +1,4 @@
-![](img//Aspose.Words.68e5d37e-2bf4-45cb-9c50-a1201ec048ba.001.jpeg)   Universidade Federal de Mato Grosso do Sul   ![](img//Aspose.Words.68e5d37e-2bf4-45cb-9c50-a1201ec048ba.002.png)![](img//Aspose.Words.68e5d37e-2bf4-45cb-9c50-a1201ec048ba.003.png)
-
+![](img//Aspose.Words.68e5d37e-2bf4-45cb-9c50-a1201ec048ba.001.jpeg)   Universidade Federal de Mato Grosso do Sul   ![](img//Aspose.Words.68e5d37e-2bf4-45cb-9c50-a1201ec048ba.002.png)
 
 # Estudo comparativo de algoritmos de ordenação
 
