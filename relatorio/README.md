@@ -28,11 +28,11 @@ Como  já  dito,  os  vetores  foram  gerados  de  forma  crescente,  decrescent
 
 **Vetores crescente:** 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.001.png)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.001.png)
 
 Imagem 1: Tabela referente a saída produzida no algoritmo. 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.002.png)
+![](..//img//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.002.png)
 
 Imagem 2: Gráfico referente a saída produzida da Imagem 1.  
 
@@ -40,11 +40,11 @@ Está nitidamente  explicito que o algoritmo  Select Sort demandou mais tempo em
 
 **Vetores decrescente:** 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.003.png)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.003.png)
 
 Imagem 3: Tabela referente a saída produzida no algoritmo. 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.004.png)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.004.png)
 
 Imagem 4: Gráfico referente a saída produzida da Imagem 3. 
 
@@ -52,11 +52,11 @@ Novamente, o algoritmo Select Sort demandou mais tempo de execução comparado c
 
 **Vetores embaralhado:** 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.005.png)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.005.png)
 
 Imagem 5: Tabela referente a saída produzida no algoritmo. 
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.006.png)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.006.png)
 
 Imagem 6: Gráfico referente a saída produzida da Imagem 5. 
 
@@ -82,4 +82,4 @@ De  certeza,  o  algoritmo  Quick  Sort,  dentre  os  testados,  é  o  mais  ef
 
 Tabela gerada pelo programa com a demonstração em minutos:  
 
-![](img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.007.jpeg)
+![](..//img//Aspose.Words.e808b011-91b0-4325-ad93-5d12ce25c0bb.007.jpeg)
